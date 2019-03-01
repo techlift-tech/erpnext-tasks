@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "213816130475",
+    "firebase_url": "https://techlift-222309.firebaseio.com",
+    "project_id": "techlift-222309",
+    "storage_bucket": "techlift-222309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213816130475:android:5744110cc26c6c5f",
+        "android_client_info": {
+          "package_name": "com.erpnextapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213816130475-pr70dsbnpn48td3h7kkbj1m8femik0md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUSHFT3QIy52ss6n9FBn91JMy6qVrH6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213816130475:android:dcf063ca4c57028e",
+        "android_client_info": {
+          "package_name": "com.techlift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213816130475-pr70dsbnpn48td3h7kkbj1m8femik0md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUSHFT3QIy52ss6n9FBn91JMy6qVrH6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
